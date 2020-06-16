@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911f07200af555e458ce9715cb91cca4, type: 3}
+  m_Name: Scene2 - Bus 1
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: 9f9861cd1f675b748a1882427f1f16d8, type: 2}
+    Lines:
+    - Primero tengo que llegar a la parada de autobuses.
+    - "Ramona ha dicho que est\xE1 cerca del centro de convenciones."
+    - Voy a preguntar a aquel guardia de seguridad.
+    EndAction: 0
+  - Speaker: {fileID: 11400000, guid: e695f6c4afc59004c897b21548367d7a, type: 2}
+    Lines:
+    - "\xA1Buenas tardes! \xA1En que puedo ayudarle?"
+    EndAction: 3

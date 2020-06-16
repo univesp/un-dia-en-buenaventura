@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911f07200af555e458ce9715cb91cca4, type: 3}
+  m_Name: Scene2 - Bus 2 Minigame1 Error 1
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: e695f6c4afc59004c897b21548367d7a, type: 2}
+    Lines:
+    - "Perdone SENHOR. No le comprendo\u2026"
+    EndAction: 3

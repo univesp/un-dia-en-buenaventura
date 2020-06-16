@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911f07200af555e458ce9715cb91cca4, type: 3}
+  m_Name: Scene1 - B3 Minigame1 Error
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: 962ec99f2f7f9ac4c87a85d6cc60fd1b, type: 2}
+    Lines:
+    - "Mi nombre no es Juan/Ramona\u2026 JAJAJAJA"
+    EndAction: 0
+  - Speaker: {fileID: 11400000, guid: 9f9861cd1f675b748a1882427f1f16d8, type: 2}
+    Lines:
+    - "Perdone, no s\xE9 d\xF3nde est\xE1 mi cabeza\u2026"
+    EndAction: 0
+  - Speaker: {fileID: 11400000, guid: 962ec99f2f7f9ac4c87a85d6cc60fd1b, type: 2}
+    Lines:
+    - "No se preocupe. Est\xE1 usted cansado, nom\xE1s."
+    EndAction: 3

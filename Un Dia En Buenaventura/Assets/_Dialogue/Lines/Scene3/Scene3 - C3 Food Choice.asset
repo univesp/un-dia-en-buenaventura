@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911f07200af555e458ce9715cb91cca4, type: 3}
+  m_Name: Scene3 - C3 Food Choice
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: 9f9861cd1f675b748a1882427f1f16d8, type: 2}
+    Lines:
+    - De primero, voy a tomar una NOME_COMIDA.
+    EndAction: 0
+  - Speaker: {fileID: 11400000, guid: e22d56e1daeb800429d8dc796a05c39e, type: 2}
+    Lines:
+    - "Muy bien. \xBFY de segundo plato?"
+    EndAction: 0
+  - Speaker: {fileID: 11400000, guid: 9f9861cd1f675b748a1882427f1f16d8, type: 2}
+    Lines:
+    - "Todav\xEDa no s\xE9 qu\xE9 elegir\u2026"
+    EndAction: 1
+  - Speaker: {fileID: 11400000, guid: 0f904c2ae78a3b04babe62546fd4a524, type: 2}
+    Lines:
+    - "\xBFPor qu\xE9 no pruebas las alb\xF3ndigas vegetarianas?"
+    EndAction: 0
+  - Speaker: {fileID: 11400000, guid: 9f9861cd1f675b748a1882427f1f16d8, type: 2}
+    Lines:
+    - Vale.
+    EndAction: 1
+  - Speaker: {fileID: 11400000, guid: e22d56e1daeb800429d8dc796a05c39e, type: 2}
+    Lines:
+    - "\xBFY de segundo, qu\xE9 va a tomar?"
+    EndAction: 3
